@@ -1,4 +1,4 @@
-# HaarCascade ile Yüz yakalama ve Gözlük Ekleme
+# HaarCascade Face Detect and wearing glasses
 
 ## dont forget to install from Nuget
 #### Aforge.video.DirectShow  
