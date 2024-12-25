@@ -31,7 +31,7 @@ namespace FaceDetectionWithHaarCascade
             }
             else
             {
-                MessageBox.Show("Hata : Bilgisayarýnýza baðlý herhangi bir web kamerasý bulunamadý !");
+                MessageBox.Show("Hata : Bilgisayarï¿½nï¿½za baï¿½lï¿½ herhangi bir web kamerasï¿½ bulunamadï¿½ !");
             }
         }
 
